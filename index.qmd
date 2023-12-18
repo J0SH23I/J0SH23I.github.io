@@ -5,7 +5,7 @@ about:
   image: img/IMG_5481.jpeg
   image-width: 15em
   image-shape: round # rectangle  round  rounded
-  
+   
   links:
     - icon: linkedin
       text: LinkedIn
